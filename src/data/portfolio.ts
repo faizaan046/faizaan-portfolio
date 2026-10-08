@@ -126,7 +126,7 @@ export const experience: ExperienceItem[] = [
     id: "it-assistant",
     role: "IT Assistant",
     organization: "Diamond House Pvt Ltd",
-    dates: "Nov 2023 to Dec 2023",
+    dates: "Nov 2023 to Dec 2024",
     description:
       "Technical support, point-of-sale system maintenance, hardware troubleshooting, and IT infrastructure assistance.",
     highlights: [],
